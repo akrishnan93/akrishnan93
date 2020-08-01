@@ -8,6 +8,11 @@
     <img align="left" alt="Anand's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />
 </a>
   
+<a href = "https://www.instagram.com/anand._.krishnan/">
+    <img align="left" alt="Anand's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />
+</a>
+
+
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 
