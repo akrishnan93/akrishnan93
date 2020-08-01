@@ -20,4 +20,4 @@
 - A Computer Science student at the Georgia Institute of Technology
 - Currently working on some cool side project!
 - I'm always looking for opportunities to build and learn.
-- Software: Java, Python, Javascriptt
+- Software: Java, Python, Javascript
