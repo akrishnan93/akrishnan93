@@ -19,4 +19,5 @@
 ### I am Anand Krishnan
 - A Computer Science student at the Georgia Institute of Technology
 - Currently working on some cool side project!
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I'm always looking for opportunities to build and learn.
+- Software: Java, Python, Javascriptt
