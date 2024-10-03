@@ -17,7 +17,5 @@
 <img align="right" width="150px" alt="GIF" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" />
 
 ### I am Anand Krishnan
-- A Computer Science student at the Georgia Institute of Technology
-- Currently working on some cool side project!
 - I'm always looking for opportunities to build and learn.
 - Software: Java, Python, Javascript
